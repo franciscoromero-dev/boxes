@@ -255,7 +255,7 @@ export default function App() {
       </h1>
       <p style={{ marginBottom: "16px", color: "#555" }}>
         Ingresa las medidas finales de la caja (W, D, H) en milímetros. Se
-        generarán los cartones del Cascarón (Azul) y del Corral (Naranja) como
+        generarán los cartones de La Cubierta (Azul) y del Corral (Naranja) como
         rectángulos independientes con sus medidas.
       </p>
 
